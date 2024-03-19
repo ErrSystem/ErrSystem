@@ -28,6 +28,9 @@
   <a href="mailto:buggybytes.errsys@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
+  <a href="https://twitter.com/ERR0R_SYS" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
 </div>
 
 <br/>
@@ -59,7 +62,7 @@
 <br/>
 <br/>
 <a> 
-  <img height=200 width=450 align="center" src="https://streak-stats.demolab.com/?user=errsystem&theme=dark&border=58a6ff&background=0d1117&border_radius=7">
+  <img height=200 width=428 align="center" src="https://streak-stats.demolab.com/?user=errsystem&theme=dark&border=fffff&background=0d1117&border_radius=7">
 </a>
 
 
