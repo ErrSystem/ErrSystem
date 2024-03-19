@@ -1,7 +1,7 @@
 <img class="banner" width="100%" src="https://pbs.twimg.com/profile_banners/1634914531523678210/1706138037/600x200">
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&height=85&lines=Well%2C+hello+there+%F0%9F%91%8B;I'm+ErrorSystem%2C+or+simply+ErrSys!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=27&duration=2000&pause=1000&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=505&height=85&lines=Well%2C+hello+there+%F0%9F%91%8B;I'm+ErrorSystem%2C+or+simply+ErrSys!" alt="Typing SVG" /></a>
 </div>
 
 
