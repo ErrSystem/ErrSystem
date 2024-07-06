@@ -52,7 +52,7 @@
   <img height=200 width=427 align="center" src="https://github-readme-stats.vercel.app/api?username=errsystem&show_icons=true&theme=github_dark&border_color=58a6ffborder_radius=7" />
 </a>
 <a> 
-  <img height=200 width=428 align="center" src="https://streak-stats.demolab.com/?user=errsystem&theme=dark&border=fffff&background=0d1117&border_radius=7">
+  <img height=200 width=420 align="center" src="https://streak-stats.demolab.com/?user=errsystem&theme=dark&border=fffff&background=0d1117&border_radius=7">
 </a>
 <!-- <a href="">
   <img height=200 width=405 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=errsystem&layout=compact&langs_count=8&card_width=320&theme=github_dark&border_color=58a6ffborder_radius=7" />
